@@ -1,10 +1,11 @@
-# Android Voice Controlled Arduino Bluetooth Servo Door Lock
+# Voice Controlled Door Lock Using Android App
 
-It's a project on controlling the opening and closing of the door with android mobile. You can use buttons or voice commands to open or close the door.
+Project to control the door lock by giving commands from android app either by pressing button or by giving voice command.
 
 ## Getting Started
 
-Following project is based on [this project](https://www.youtube.com/watch?v=8gzh95w4Hmk). So check that out.
+This project is based on [this video](https://www.youtube.com/watch?v=8gzh95w4Hmk). So check it out.
+
 ### Prerequisites
 ```
 * Arduino UNO
