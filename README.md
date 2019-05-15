@@ -1,6 +1,6 @@
 # Voice Controlled Door Lock Using Android App
 
-Project to control the door lock by giving commands from android app either by pressing button or by giving voice command.
+Project to control the door lock by giving commands from android app either by pressing buttons or by giving voice commands.
 
 ## Getting Started
 
